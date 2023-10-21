@@ -5,10 +5,7 @@
 <h3 align="center">Currently I am working as a Angular developer</h3>
 
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=amanbisht02&label=Profile%20views&color=0e75b6&style=flat"
-    
-  />
+
 </p>
 I’m currently working on **private projects**
 <h3 align="left">Languages and Tools:</h3>
